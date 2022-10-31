@@ -456,6 +456,11 @@ border-bottom:1px solid #919191;
         width: 360px;
         height: 500px;
     }
+    
+    .imgfrente,.imgcostas{
+       width: 340px;
+       left: 10px;
+    }
 
    
     .switch__container2{
